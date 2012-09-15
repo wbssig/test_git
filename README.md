@@ -41,6 +41,11 @@ Liste mit -:
 - Listenelement 2
 - Listenelement 3
 
+Liste doppelt eingerückt:
+- Listenelement 1
+ - Listenelement 2
+- Listenelement 3
+
 Aufzählung:
 
 1. Listenelement 1
