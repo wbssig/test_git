@@ -3,5 +3,7 @@ Zeile 0 aus dem Branch master
 Zeile 1
 Zeile 1.1 aus dem Branch master
 Zeile 2
+Zeile 2.1 aus Branch features-2
 Zeile 3
 Zeile 4
+Zeile 4.1 aus Branch features-2
